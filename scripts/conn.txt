@@ -1,0 +1,395 @@
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  49      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  39      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_N3RU        Infra  8     54 Mbit/s  24      ▂___  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  25      ▂___  WPA1 WPA2 
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  20      ▂___  WPA2      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+   aslan                   Infra  6     54 Mbit/s  27      ▂___  WPA1      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  49      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  39      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_N3RU        Infra  8     54 Mbit/s  24      ▂___  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  25      ▂___  WPA1 WPA2 
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  20      ▂___  WPA2      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+   aslan                   Infra  6     54 Mbit/s  27      ▂___  WPA1      
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  30      ▂___  WPA1      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  49      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  39      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_N3RU        Infra  8     54 Mbit/s  24      ▂___  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+   aslan                   Infra  6     54 Mbit/s  27      ▂___  WPA1      
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  30      ▂___  WPA1      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  17      ▂___  WPA1 WPA2 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  49      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  39      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_N3RU        Infra  8     54 Mbit/s  22      ▂___  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  29      ▂___  WPA2      
+   aslan                   Infra  6     54 Mbit/s  27      ▂___  WPA1      
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  30      ▂___  WPA1      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  24      ▂___  WPA1 WPA2 
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  29      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  60      ▂▄▆_  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  44      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  42      ▂▄__  WPA1      
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  35      ▂▄__  WPA2      
+   ZyXEL_J79FUY            Infra  2     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  22      ▂___  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  27      ▂___  WPA2      
+   TTNET_ZyXEL_N3RU        Infra  8     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  59      ▂▄▆_  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  42      ▂▄__  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  30      ▂___  WPA2      
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  30      ▂___  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  19      ▂___  WPA1 WPA2 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  57      ▂▄▆_  WPA2      
+   aslan                   Infra  6     54 Mbit/s  52      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  45      ▂▄__  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  35      ▂▄__  WPA2      
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  29      ▂___  WPA2      
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  20      ▂___  WPA1      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  19      ▂___  WPA1 WPA2 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  57      ▂▄▆_  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  49      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  44      ▂▄__  WPA1      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  30      ▂___  WPA1 WPA2 
+   TTNET_ZyXEL_N3RU        Infra  8     54 Mbit/s  29      ▂___  WPA1 WPA2 
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  30      ▂___  WPA2      
+   MAVI                    Infra  6     54 Mbit/s  19      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  52      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  42      ▂▄__  WPA1      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  29      ▂___  WPA1 WPA2 
+   TTNET_ZyXEL_N3RU        Infra  8     54 Mbit/s  24      ▂___  WPA1 WPA2 
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  24      ▂___  WPA2      
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  22      ▂___  WPA1      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  52      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  44      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  32      ▂▄__  WPA1      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  25      ▂___  WPA2      
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  24      ▂___  WPA2      
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  22      ▂___  WPA1      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  49      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  39      ▂▄__  WPA1 WPA2 
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  25      ▂___  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  27      ▂___  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  24      ▂___  WPA1      
+   Huawei_HG521            Infra  1     54 Mbit/s  12      ▂___  WPA1      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  50      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  39      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  34      ▂▄__  WPA1      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  27      ▂___  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+
+Error: nmcli terminated by signal 2.*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  44      ▂▄__  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  29      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  24      ▂___  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  47      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  45      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  44      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  29      ▂___  WPA1 WPA2 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  47      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  45      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  44      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  29      ▂___  WPA1 WPA2 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   erciyes                 Infra  6     54 Mbit/s  100     ▂▄▆█  WPA2      
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  52      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  44      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  34      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  32      ▂▄__  WPA1      
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   erciyes                 Infra  6     54 Mbit/s  100     ▂▄▆█  WPA2      
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  52      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  44      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  34      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  32      ▂▄__  WPA1      
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  22      ▂___  WPA2      
+   TTNET_ZyXEL_N3RU        Infra  8     54 Mbit/s  25      ▂___  WPA1 WPA2 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   erciyes                 Infra  6     54 Mbit/s  100     ▂▄▆█  WPA2      
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  54      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  32      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  30      ▂___  WPA1 WPA2 
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  25      ▂___  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   erciyes                 Infra  6     54 Mbit/s  100     ▂▄▆█  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  49      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  42      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  40      ▂▄__  WPA1      
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  25      ▂___  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  24      ▂___  WPA1 WPA2 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  49      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  42      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  40      ▂▄__  WPA1      
+   TurkTelekom_T6C95       Infra  11    54 Mbit/s  25      ▂___  WPA2      
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  24      ▂___  WPA1 WPA2 
+*  erciyes                 Infra  6     54 Mbit/s  70      ▂▄▆_  WPA2      
+   MAVI                    Infra  6     54 Mbit/s  32      ▂▄__  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  45      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  44      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  40      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  29      ▂___  WPA2      
+*  erciyes                 Infra  6     54 Mbit/s  73      ▂▄▆_  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  54      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  47      ▂▄__  WPA1      
+*  erciyes                 Infra  6     54 Mbit/s  79      ▂▄▆_  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  49      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  37      ▂▄__  WPA1 WPA2 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  54      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  52      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   TTNET_ZyXEL_YRKN        Infra  9     54 Mbit/s  32      ▂▄__  WPA1 WPA2 
+*  erciyes                 Infra  6     54 Mbit/s  82      ▂▄▆█  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  50      ▂▄__  WPA2     
+   aslan                   Infra  6     54 Mbit/s  39      ▂▄__  WPA1     
+   MAVI                    Infra  6     54 Mbit/s  25      ▂___  WPA2     
+*  erciyes                 Infra  6     54 Mbit/s  82      ▂▄▆█  WPA2     
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  50      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  25      ▂___  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  25      ▂___  WPA2      
+*  erciyes                 Infra  6     54 Mbit/s  81      ▂▄▆█  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  40      ▂▄__  WPA1 WPA2 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  59      ▂▄▆_  WPA2      
+   aslan                   Infra  6     54 Mbit/s  40      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  40      ▂▄__  WPA1 WPA2 
+*  erciyes                 Infra  6     54 Mbit/s  87      ▂▄▆█  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*  erciyes                 Infra  6     54 Mbit/s  90      ▂▄▆█  WPA2      
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  57      ▂▄▆_  WPA2      
+   aslan                   Infra  6     54 Mbit/s  44      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  39      ▂▄__  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  32      ▂▄__  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  59      ▂▄▆_  WPA2      
+   aslan                   Infra  6     54 Mbit/s  50      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  37      ▂▄__  WPA1 WPA2 
+*  erciyes                 Infra  6     54 Mbit/s  88      ▂▄▆█  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  57      ▂▄▆_  WPA2      
+   aslan                   Infra  6     54 Mbit/s  42      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  34      ▂▄__  WPA1 WPA2 
+*  erciyes                 Infra  6     54 Mbit/s  85      ▂▄▆█  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  50      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  40      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  39      ▂▄__  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  32      ▂▄__  WPA2      
+*  erciyes                 Infra  6     54 Mbit/s  84      ▂▄▆█  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  52      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  47      ▂▄__  WPA1 WPA2 
+   MAVI                    Infra  6     54 Mbit/s  42      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  40      ▂▄__  WPA1      
+*  erciyes                 Infra  6     54 Mbit/s  82      ▂▄▆█  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  59      ▂▄▆_  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  45      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  34      ▂▄__  WPA1      
+*  erciyes                 Infra  6     54 Mbit/s  87      ▂▄▆█  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  59      ▂▄▆_  WPA2      
+   aslan                   Infra  6     54 Mbit/s  40      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  40      ▂▄__  WPA1 WPA2 
+*  erciyes                 Infra  6     54 Mbit/s  88      ▂▄▆█  WPA2      
+   MAVI                    Infra  6     54 Mbit/s  27      ▂___  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  60      ▂▄▆_  WPA2      
+   aslan                   Infra  6     54 Mbit/s  40      ▂▄__  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  27      ▂___  WPA2      
+*  erciyes                 Infra  6     54 Mbit/s  88      ▂▄▆█  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  37      ▂▄__  WPA1 WPA2 
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  15      ▂___  WPA1      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  60      ▂▄▆_  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  44      ▂▄__  WPA1 WPA2 
+*  erciyes                 Infra  6     54 Mbit/s  89      ▂▄▆█  WPA2      
+   aslan                   Infra  6     54 Mbit/s  45      ▂▄__  WPA1      
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  19      ▂___  WPA1      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*  erciyes                 Infra  6     54 Mbit/s  88      ▂▄▆█  WPA2      
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  55      ▂▄__  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  50      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  32      ▂▄__  WPA1      
+   MAVI                    Infra  6     54 Mbit/s  29      ▂___  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  55      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  44      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  39      ▂▄__  WPA1 WPA2 
+*  erciyes                 Infra  6     54 Mbit/s  90      ▂▄▆█  WPA2      
+   NetMASTER Uydunet-82E7  Infra  6     54 Mbit/s  15      ▂___  WPA1      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  60      ▂▄▆_  WPA2      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  40      ▂▄__  WPA1 WPA2 
+   aslan                   Infra  6     54 Mbit/s  37      ▂▄__  WPA1      
+*  erciyes                 Infra  6     54 Mbit/s  89      ▂▄▆█  WPA2      
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+*  SSID                    MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*  erciyes                 Infra  6     54 Mbit/s  90      ▂▄▆█  WPA2      
+   NetMASTER Uydunet-AB58  Infra  6     54 Mbit/s  52      ▂▄__  WPA2      
+   aslan                   Infra  6     54 Mbit/s  50      ▂▄__  WPA1      
+   AIRTIES_RT-204          Infra  6     54 Mbit/s  44      ▂▄__  WPA1 WPA2 
+*  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
